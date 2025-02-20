@@ -23,6 +23,9 @@
 <a href="https://www.instagram.com/ayyoub_zahraoui/">
     <img src="https://img.shields.io/badge/-instagram-000?style=flat&logo=instagram&logoColor=fff&labelColor=000"">
 </a>
+<a href="https://www.hackerrank.com/profile/zahraoui_ayyoub0">
+    <img src="https://img.shields.io/badge/-hackerrank-000?style=flat&logo=hackerrank&logoColor=fff&labelColor=000"">
+</a>
 <a href="https://www.linkedin.com/in/ayyoub-zahraoui-932471229/">
     <img src="https://img.shields.io/badge/-linkedin-000?style=flat&logo=linkedin&logoColor=fff&labelColor=000"">
 </a>
